@@ -1,0 +1,1 @@
+print("7task_2.py")
