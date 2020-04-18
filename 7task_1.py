@@ -1,0 +1,1 @@
+print("7task_1.py")
